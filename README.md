@@ -1,8 +1,8 @@
-Feedback-App
+<h1>Feedback-App</h1>
 
-Created by Brad Traversy
-Platform: Udemy
-Course name: Front to Back 2022
-Student: Lucas Filgueiras Silva
+<h2>Created by Brad Traversy</h2>
+<p>Platform: Udemy</p>
+<p>Course name: Front to Back 2022</p>
+<p>Student: Lucas Filgueiras Silva</p>
 
-Made with React framework
+<p>Made with React framework</p>
