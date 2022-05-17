@@ -2,16 +2,8 @@ import PropTypes from 'prop-types'
 
 
 function Card({children, reverse}) {
-  var rev = ''
-
-  if(reverse){
-    rev = 'reverse'
-  }else{
-    rev = ''
-  }
-
   return (
-    <div className={'card ' + rev}>
+    <div className={`card ${reverse}`}>
         {children}
     </div>
   )
