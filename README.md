@@ -5,4 +5,4 @@
 <p>Course name: Front to Back 2022</p>
 <p>Student: Lucas Filgueiras Silva</p>
 
-<p>Made with React framework</p>
+<p>Made with React Js</p>
