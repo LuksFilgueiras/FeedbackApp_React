@@ -6,3 +6,5 @@
 <p>Student: Lucas Filgueiras Silva</p>
 
 <p>Made with React Js</p>
+
+<p> This project feed a list of feedbacks using JSON-Server API<p>
